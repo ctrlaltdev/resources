@@ -12,7 +12,7 @@
   * [Interface Segragation](https://github.com/ctrlaltdev/resources/blob/master/ISP.md)
   * [Dependency Inversion](https://github.com/ctrlaltdev/resources/blob/master/DIP.md)
 * [Syntactic Sugar](https://github.com/ctrlaltdev/resources/blob/master/syntactic_sugar.md)
-* [Worse is Better]((https://github.com/ctrlaltdev/resources/blob/master/worse_is_better.md))
+* [Worse is Better]((https://github.com/ctrlaltdev/resources/blob/master/worse_is_better.md)
 * [YAGNI](https://github.com/ctrlaltdev/resources/blob/master/YAGNI.md)
 
 ## Open Source Dev Principles
