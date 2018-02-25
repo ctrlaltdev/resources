@@ -1,5 +1,7 @@
 # Resources
 
+Please feel free to contribute, just fork and PR!
+
 ## Dev Principles
 * [DRY](https://github.com/ctrlaltdev/resources/blob/master/DRY.md)
 * [GRASP](https://github.com/ctrlaltdev/resources/blob/master/GRASP.md)
