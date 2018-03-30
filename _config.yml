@@ -1,7 +1,7 @@
 remote_theme: ctrlaltdev/ctrlaltdev-theme
 theme_settings:
   title: "resources"
-  description: ""
+  description: "List and extracts of resources for coding, debugging, and so on."
 github: ctrlaltdev/resources
 sass:
   sass_dir: _sass
