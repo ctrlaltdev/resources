@@ -1,0 +1,8 @@
+remote_theme: ctrlaltdev/ctrlaltdev-theme
+theme_settings:
+  title: "resources"
+  description: ""
+github: ctrlaltdev/resources
+sass:
+  sass_dir: _sass
+  style: :compressed
