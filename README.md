@@ -20,3 +20,7 @@ Please feel free to contribute, just fork and PR!
 ## Open Source Dev Principles
 
 * [Cathedral vs Bazaar](https://github.com/ctrlaltdev/resources/blob/master/cathedral_vs_bazaar.md)
+
+## Security
+
+* [Kubernetes Security Best Practices](https://github.com/ctrlaltdev/resources/blob/master/kubernetes-security-best-practice/README.md)
