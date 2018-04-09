@@ -23,4 +23,5 @@ Please feel free to contribute, just fork and PR!
 
 ## Security
 
+* [Red Hat Enterprise 6 Security Guide](https://ctrlaltdev.xyz/resources/pdf/Red_Hat_Enterprise_Linux-6-Security_Guide-en-US.pdf)
 * [Kubernetes Security Best Practices](https://ctrlaltdev.xyz/resources/kubernetes-security-best-practice/)
