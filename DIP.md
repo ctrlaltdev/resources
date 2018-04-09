@@ -13,4 +13,4 @@ In many cases, thinking about the interaction in itself as an abstract concept a
 
 When the discovered abstract interaction schema(s) between two modules is/are generic and generalization makes sense, this design principle also leads to the following dependency inversion coding pattern.
 
-[The Dependency Inversion Principle](https://github.com/ctrlaltdev/resources/blob/master/pdf/dip.pdf)
+[The Dependency Inversion Principle](https://ctrlaltdev.xyz/resources/pdf/dip.pdf)

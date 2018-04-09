@@ -23,4 +23,4 @@ In contrast to Meyer's usage, this definition advocates inheritance from abstrac
 
 Robert C. Martin's 1996 article "The Open-Closed Principle" was one of the seminal writings to take this approach. In 2001 Craig Larman related the open/closed principle to the pattern by Alistair Cockburn called Protected Variations, and to the David Parnas discussion of information hiding.
 
-[The Open / Closed Principle](https://github.com/ctrlaltdev/resources/blob/master/pdf/ocp.pdf)
+[The Open / Closed Principle](https://ctrlaltdev.xyz/resources/pdf/ocp.pdf)

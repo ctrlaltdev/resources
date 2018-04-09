@@ -3,24 +3,24 @@
 Please feel free to contribute, just fork and PR!
 
 ## Dev Principles
-* [DRY](https://github.com/ctrlaltdev/resources/blob/master/DRY.md)
-* [GRASP](https://github.com/ctrlaltdev/resources/blob/master/GRASP.md)
-* [KISS](https://github.com/ctrlaltdev/resources/blob/master/KISS.md)
-* [RERO](https://github.com/ctrlaltdev/resources/blob/master/RERO.md)
-* [SOLID](https://github.com/ctrlaltdev/resources/blob/master/SOLID.md)
-  * [Single Responsability](https://github.com/ctrlaltdev/resources/blob/master/SRP.md)
-  * [Open / Closed](https://github.com/ctrlaltdev/resources/blob/master/OCP.md)
-  * [Liskov Substitution](https://github.com/ctrlaltdev/resources/blob/master/LSP.md)
-  * [Interface Segragation](https://github.com/ctrlaltdev/resources/blob/master/ISP.md)
-  * [Dependency Inversion](https://github.com/ctrlaltdev/resources/blob/master/DIP.md)
-* [Syntactic Sugar](https://github.com/ctrlaltdev/resources/blob/master/syntactic_sugar.md)
-* [Worse is Better](https://github.com/ctrlaltdev/resources/blob/master/worse_is_better.md)
-* [YAGNI](https://github.com/ctrlaltdev/resources/blob/master/YAGNI.md)
+* [DRY](https://ctrlaltdev.xyz/resources/DRY)
+* [GRASP](https://ctrlaltdev.xyz/resources/GRASP)
+* [KISS](https://ctrlaltdev.xyz/resources/KISS)
+* [RERO](https://ctrlaltdev.xyz/resources/RERO)
+* [SOLID](https://ctrlaltdev.xyz/resources/SOLID)
+  * [Single Responsability](https://ctrlaltdev.xyz/resources/SRP)
+  * [Open / Closed](https://ctrlaltdev.xyz/resources/OCP)
+  * [Liskov Substitution](https://ctrlaltdev.xyz/resources/LSP)
+  * [Interface Segragation](https://ctrlaltdev.xyz/resources/ISP)
+  * [Dependency Inversion](https://ctrlaltdev.xyz/resources/DIP)
+* [Syntactic Sugar](https://ctrlaltdev.xyz/resources/syntactic_sugar)
+* [Worse is Better](https://ctrlaltdev.xyz/resources/worse_is_better)
+* [YAGNI](https://ctrlaltdev.xyz/resources/YAGNI)
 
 ## Open Source Dev Principles
 
-* [Cathedral vs Bazaar](https://github.com/ctrlaltdev/resources/blob/master/cathedral_vs_bazaar.md)
+* [Cathedral vs Bazaar](https://ctrlaltdev.xyz/resources/cathedral_vs_bazaar)
 
 ## Security
 
-* [Kubernetes Security Best Practices](https://github.com/ctrlaltdev/resources/blob/master/kubernetes-security-best-practice/README.md)
+* [Kubernetes Security Best Practices](https://ctrlaltdev.xyz/resources/kubernetes-security-best-practice/)

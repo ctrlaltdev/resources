@@ -6,4 +6,4 @@ Martin defines a responsibility as a reason to change, and concludes that a clas
 
 The reason it is important to keep a class focused on a single concern is that it makes the class more robust. Continuing with the foregoing example, if there is a change to the report compilation process, there is greater danger that the printing code will break if it is part of the same class.
 
-[The Single Responsability Principle](https://github.com/ctrlaltdev/resources/blob/master/pdf/srp.pdf)
+[The Single Responsability Principle](https://ctrlaltdev.xyz/resources/pdf/srp.pdf)
