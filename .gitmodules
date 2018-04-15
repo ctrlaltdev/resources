@@ -1,3 +1,6 @@
 [submodule "kubernetes-security-best-practice"]
 	path = kubernetes-security-best-practice
 	url = https://github.com/freach/kubernetes-security-best-practice.git
+[submodule "awesome-firmware-security"]
+	path = awesome-firmware-security
+	url = https://github.com/PreOS-Security/awesome-firmware-security
