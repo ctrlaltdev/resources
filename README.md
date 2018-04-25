@@ -22,7 +22,7 @@ Please feel free to contribute, just fork and PR!
 * [Cathedral vs Bazaar](https://ctrlaltdev.xyz/resources/cathedral_vs_bazaar)
 
 ## Security
-
+* [Security Checklist](https://ctrlaltdev.xyz/resource/security_checklist)
 * [Red Hat Enterprise 6 Security Guide](https://ctrlaltdev.xyz/resources/pdf/Red_Hat_Enterprise_Linux-6-Security_Guide-en-US.pdf)
 * [Kubernetes Security Best Practices](https://ctrlaltdev.xyz/resources/kubernetes-security-best-practice/)
 * [Awesome Firmware Security](https://ctrlaltdev.xyz/resources/awesome-firmware-security)
